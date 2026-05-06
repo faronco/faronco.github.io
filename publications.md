@@ -13,47 +13,49 @@ Sex Differentiation and Long-Distance Gene Flow in the Elusive Antarctic Fish *A
 L Schiavon, T Desvignes, F Ronco, M Matschiner, M Gastaldi, T Koppetsch, A Schrøder‐Nielsen, JH Postlethwait, A Prestanti, F Stranci, SG Ceballos, FC Mark, M Lucassen, E Riginella, M La Mesa, C Papetti
 **Ecology and Evolution** 15(8), e71847 ([access](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.71847))
 
-
 African cichlid lake radiations recapitulate riverine axial morphologies through repeated exploration of morphospace  
 CV Bucklow, ED Ribeiro, F Ronco, N Vranken, MK Oliver, W Salzburger, M Stiassny, R Benson, B Verd 
-**bioRxiv** (2025.05.13.653847) ([access]([https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.71847](https://www.biorxiv.org/content/10.1101/2025.05.13.653847v1))
-
+**bioRxiv** (2025.05.13.653847) ([access](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.71847))
 
 Metagenomic Insights Into the Dietary Diversity of the Adaptive Radiation of Cichlid Fishes in Lake Tanganyika  
-CET Huyghe, A Fages, F Ronco, A Indermaur, FDB Schedel, I Kimirei, et al.  
-**Molecular Ecology** 34(9), e17743  
+CET Huyghe, A Fages, F Ronco, A Indermaur, FDB Schedel, I Kimirei, L Makasa, P Tschopp, W Salzburger  
+**Molecular Ecology** 34(9), e17743 ([access](https://onlinelibrary.wiley.com/doi/10.1111/mec.17743))
 
 Morphological diversity of the genus *Telmatochromis* from the Lake Tanganyika drainage with the description of a new riverine species and the generic revision  
 A Indermaur, FDB Schedel, F Ronco  
-**Journal of Fish Biology** 106(4), 1214–1230  
+**Journal of Fish Biology** 106(4), 1214–1230 ([access](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.16042))
 
 ---
 
 ### 2024
 
+Adaptive cellular evolution in the intestinal tracts of hyperdiverse African cichlid fishes
+A Fages, M Luxey, F Ronco, CET Huyghe, PN Krishna Menon, A Indermaur, W Salzburger, P Tschopp
+**bioRxiv** ([access](https://www.biorxiv.org/content/10.1101/2024.11.28.625862v1))
+
 Diet and habitat as determinants of intestine length in fishes  
 MJ Duque-Correa, KD Clements, C Meloro, F Ronco, A Boila, A Indermaur, W Salzburger, M Clauss
-**Reviews in Fish Biology and Fisheries** 34(3), 1017–1034  
+**Reviews in Fish Biology and Fisheries** 34(3), 1017–1034 ([access](https://link.springer.com/article/10.1007/s11160-024-09853-3))
 
 Skeletal mineralogy of marine calcifying organisms shaped by seawater temperature and evolutionary history  
-A Piwoni-Piórewicz, LH Liow, M Krzemińska, M Chełchowski, F Ronco, et al.  
-**Global Ecology and Biogeography** 33(8), e13874  
+A Piwoni-Piórewicz, LH Liow, M Krzemińska, M Chełchowski, A Iglikowska, F Ronco, M Mazurkiewicz, AM Smith, DP Gordon, A Waeschenbach, J Najorka, B Figuerola, MK Boonzaaier‐Davids, K Achilleos, H Mello, WK Florence, LM Vieira, AN Ostrovsky, N Shunatova, JS Porter, N Sokolover, RL Cumming, M Novosel, A O'Dea, C Lombardi, SS Jain, D Huang, P Kukliński
+**Global Ecology and Biogeography** 33(8), e13874 ([access](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13874))
 
 Surrounded by Great Lakes: Assessing the ichthyological diversity of Northern Zambian drainage systems  
 FDB Schedel, CET Huyghe, N Boileau, A Indermaur, F Ronco, LM Fritschi, M Phiri, L Makasa, C Katongo, W Salzburger  
-**Journal of Great Lakes Research** 50(3), 102245  
+**Journal of Great Lakes Research** 50(3), 102245 ([access](https://www.sciencedirect.com/science/article/pii/S0380133023002381)) 
 
 The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes  
-C Sommer-Trembo, ME Santos, B Clark, M Werner, A Fages, F Ronco, et al.  
-**Science** 384(6694), 470–475  
+C Sommer-Trembo, ME Santos, B Clark, M Werner, A Fages, M Matschiner, S Hornung, F Ronco, C Oliver, C Garcia, P Tschopp, M Malinsky, W Salzburger  
+**Science** 384(6694), 470–475 ([access](https://www.science.org/doi/full/10.1126/science.adj9228))
 
 Host adaptive radiation is associated with rapid virus diversification and cross-species transmission in African cichlid fishes  
 VA Costa, F Ronco, JCO Mifsud, E Harvey, W Salzburger, EC Holmes  
-**Current Biology** 34(6), 1247–1257.e3  
+**Current Biology** 34(6), 1247–1257.e3 ([access](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00150-7)) 
 
 Revision of the cichlid fish genus *Gnathochromis* (Teleostei: Cichlidae) with description of *Jabarichromis* gen. nov.  
 A Haefeli, FDB Schedel, F Ronco, A Indermaur, W Salzburger  
-**Zootaxa** 5410(3), 434–450  
+**Zootaxa** 5410(3), 434–450 ([access](https://mapress.com/zt/article/view/zootaxa.5410.3.10))
 
 ---
 
