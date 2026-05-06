@@ -115,19 +115,19 @@ F Ronco, M Matschiner, A Böhne, A Boila, HH Büscher, A El Taher, A Indermaur, 
 
 The genomic timeline of cichlid fish diversification across continents  
 M Matschiner, A Böhne, F Ronco, W Salzburger  
-**Nature Communications** 11(1), 5895  
+**Nature Communications** 11(1), 5895 ([access](https://www.nature.com/articles/s41467-020-17827-9))
 
 The taxonomic diversity of the cichlid fish fauna of ancient Lake Tanganyika, East Africa  
 F Ronco, HH Büscher, A Indermaur, W Salzburger  
-**Journal of Great Lakes Research** 46(5), 1067–1078  
+**Journal of Great Lakes Research** 46(5), 1067–1078 ([access](https://www.sciencedirect.com/science/article/pii/S0380133019301066)) 
 
 Structural manipulations of a shelter resource reveal underlying preference functions in a shell-dwelling cichlid fish  
 APH Bose, J Windorfer, A Böhm, F Ronco, A Indermaur, W Salzburger, A Jordan  
-**Proceedings of the Royal Society B** 287(1927)  
+**Proceedings of the Royal Society B** 287(1927) ([access](https://royalsocietypublishing.org/rspb/article/287/1927/20200127/85616)) 
 
 Genomic release-recapture experiment in the wild reveals within-generation polygenic selection in stickleback fish  
 TG Laurentino, D Moser, M Roesti, M Ammann, A Frey, F Ronco, B Kueng, D Berner  
-**Nature Communications** 11(1), 1928  
+**Nature Communications** 11(1), 1928 ([access](https://www.nature.com/articles/s41467-020-15657-3)) 
 
 ---
 
@@ -135,19 +135,19 @@ TG Laurentino, D Moser, M Roesti, M Ammann, A Frey, F Ronco, B Kueng, D Berner
 
 A functional trade-off between trophic adaptation and parental care predicts sexual dimorphism in cichlid fish  
 F Ronco, M Roesti, W Salzburger  
-**Proceedings of the Royal Society B** 286(1909)  
+**Proceedings of the Royal Society B** 286(1909) ([access](https://royalsocietypublishing.org/rspb/article/286/1909/20191050/85218)) 
 
 Point-combination transect (PCT): Incorporation of small underwater cameras to study fish communities  
 L Widmer, E Heule, M Colombo, A Rueegg, A Indermaur, F Ronco, W Salzburger 
-**Methods in Ecology and Evolution** 10(6), 891  
+**Methods in Ecology and Evolution** 10(6), 891 ([access](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13163))
 
 ---
 
 ### 2017
 
 Variation of anal fin egg-spots along an environmental gradient in a haplochromine cichlid fish  
-A Theis, O Roth, F Cortesi, F Ronco, W Salzburger, B Egger  
-**Evolution** 71(3), 766–777  
+A Theis, O Roth, F Cortesi, F Ronco, W Salzburger, B Egger
+**Evolution** 71(3), 766–777 ([access](https://academic.oup.com/evolut/article/71/3/766/6725940)) 
 
 ---
 
@@ -155,7 +155,7 @@ A Theis, O Roth, F Cortesi, F Ronco, W Salzburger, B Egger
 
 Speciation: genomic archipelagos in a crater lake  
 F Ronco, W Salzburger  
-**Current Biology** 26(5), R197–R199  
+**Current Biology** 26(5), R197–R199 ([access](https://www.cell.com/action/showPdf?pii=S0960-9822%2816%2930004-5))
 
 ---
 
@@ -163,4 +163,4 @@ F Ronco, W Salzburger
 
 Adaptive divergence between lake and stream populations of an East African cichlid fish  
 A Theis, F Ronco, A Indermaur, W Salzburger, B Egger  
-**Molecular Ecology** 23(21), 5304–5322  
+**Molecular Ecology** 23(21), 5304–5322 ([access](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.12939)) 
