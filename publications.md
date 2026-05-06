@@ -66,7 +66,7 @@ V Ricci, F Ronco, N Boileau, W Salzburger
 **Science Advances** 9(36), eadg6568 ([access](https://www.science.org/doi/full/10.1126/sciadv.adg6568))
 
 
-<img width="230.25" height="296" alt="Ricci_etal_2023" src="https://github.com/user-attachments/assets/cf03e705-0857-4f6e-ae05-5ac23f84f3cd" />
+<img width="684" height="874" alt="Ricci_etal_2023" src="https://github.com/user-attachments/assets/ec9b68e3-b6e9-4bac-b917-a804df6e6985" />
 
 ---
 
