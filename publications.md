@@ -65,6 +65,9 @@ Visual opsin gene expression evolution in the adaptive radiation of cichlid fish
 V Ricci, F Ronco, N Boileau, W Salzburger  
 **Science Advances** 9(36), eadg6568 ([access](https://www.science.org/doi/full/10.1126/sciadv.adg6568))
 
+
+<img width="921" height="1184" alt="Ricci_etal_2023" src="https://github.com/user-attachments/assets/cf03e705-0857-4f6e-ae05-5ac23f84f3cd" />
+
 ---
 
 ### 2022
