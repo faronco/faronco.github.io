@@ -61,13 +61,13 @@ A Haefeli, FDB Schedel, F Ronco, A Indermaur, W Salzburger
 
 ### 2023
 
-<div style="display: flex; gap: 15px; align-items: flex-start;">
+<div class="pub-entry">
   <div>
     Visual opsin gene expression evolution in the adaptive radiation of cichlid fishes of Lake Tanganyika<br>
     V Ricci, F Ronco, N Boileau, W Salzburger <br>
     <b>Science Advances</b> 9(36), eadg6568 (<a href="https://www.science.org/doi/full/10.1126/sciadv.adg6568">access</a>)
   </div>
-  <img width="150" src="https://github.com/user-attachments/assets/ec9b68e3-b6e9-4bac-b917-a804df6e6985" style="border-radius: 6px;">
+  <img src="https://github.com/user-attachments/assets/ec9b68e3-b6e9-4bac-b917-a804df6e6985">
 </div>
 
 
@@ -103,13 +103,13 @@ Dynamics of sex chromosome evolution in a rapid radiation of cichlid fishes
 A El Taher, F Ronco, M Matschiner, W Salzburger, A Böhne  
 **Science Advances** 7(36), eabe8215 ([access](https://www.science.org/doi/full/10.1126/sciadv.abe8215)) 
 
-<div style="display: flex; gap: 15px; align-items: flex-start;">
+<div class="pub-entry">
   <div>
     The non-gradual nature of adaptive radiation<br> 
     F Ronco, W Salzburger<br>  
     <b>Zoology</b> 146, 125925 (<a href="https://www.sciencedirect.com/science/article/pii/S0944200621000337">access</a>)
   </div>
-  <img width="150" src="https://github.com/user-attachments/assets/42ce3df5-500d-4056-be4e-85c3cfbbed5c" style="border-radius: 6px;">
+  <img src="https://github.com/user-attachments/assets/42ce3df5-500d-4056-be4e-85c3cfbbed5c">
 </div>
 
 Gene expression dynamics during rapid organismal diversification in African cichlid fishes  
