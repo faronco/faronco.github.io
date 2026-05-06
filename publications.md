@@ -15,7 +15,7 @@ L Schiavon, T Desvignes, F Ronco, M Matschiner, M Gastaldi, T Koppetsch, A Schr√
 
 African cichlid lake radiations recapitulate riverine axial morphologies through repeated exploration of morphospace  
 CV Bucklow, ED Ribeiro, F Ronco, N Vranken, MK Oliver, W Salzburger, M Stiassny, R Benson, B Verd 
-**bioRxiv** (2025.05.13.653847) ([access](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.71847))
+**bioRxiv** (2025.05.13.653847) ([access](https://www.biorxiv.org/content/10.1101/2025.05.13.653847v1))
 
 Metagenomic Insights Into the Dietary Diversity of the Adaptive Radiation of Cichlid Fishes in Lake Tanganyika  
 CET Huyghe, A Fages, F Ronco, A Indermaur, FDB Schedel, I Kimirei, L Makasa, P Tschopp, W Salzburger  
