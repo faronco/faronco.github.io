@@ -87,7 +87,7 @@ A Haefeli, FDB Schedel, F Ronco, A Indermaur, W Salzburger
     <b>G3</b> 12(6), jkac077 (<a href="https://academic.oup.com/g3journal/article/12/6/jkac077/6563190">access</a>)
   </div>
   <img src="https://github.com/user-attachments/assets/24eb3ab6-2387-4864-be39-827cc0159d8a"/>
-
+</div>
 
 Molecular evolution and depth-related adaptations of rhodopsin in the adaptive radiation of cichlid fishes in Lake Tanganyika  
 V Ricci, F Ronco, Z Musilova, W Salzburger  
