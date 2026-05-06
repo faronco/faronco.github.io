@@ -63,7 +63,7 @@ A Haefeli, FDB Schedel, F Ronco, A Indermaur, W Salzburger
 
 Visual opsin gene expression evolution in the adaptive radiation of cichlid fishes of Lake Tanganyika  
 V Ricci, F Ronco, N Boileau, W Salzburger  
-**Science Advances** 9(36), eadg6568  
+**Science Advances** 9(36), eadg6568 ([access](https://www.science.org/doi/full/10.1126/sciadv.adg6568))
 
 ---
 
@@ -71,11 +71,11 @@ V Ricci, F Ronco, N Boileau, W Salzburger
 
 The ectodysplasin-A receptor is a candidate gene for lateral plate number variation in stickleback fish  
 TG Laurentino, N Boileau, F Ronco, D Berner  
-**G3** 12(6), jkac077  
+**G3** 12(6), jkac077 ([access](https://academic.oup.com/g3journal/article/12/6/jkac077/6563190)) 
 
 Molecular evolution and depth-related adaptations of rhodopsin in the adaptive radiation of cichlid fishes in Lake Tanganyika  
 V Ricci, F Ronco, Z Musilova, W Salzburger  
-**Molecular Ecology** 31(10), 2882–2897  
+**Molecular Ecology** 31(10), 2882–2897 ([access](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16429))
 
 ---
 
@@ -83,32 +83,31 @@ V Ricci, F Ronco, Z Musilova, W Salzburger
 
 Tracing evolutionary decoupling of oral and pharyngeal jaws in cichlid fishes  
 F Ronco, W Salzburger  
-**Evolution Letters** 5(6), 625–635  
+**Evolution Letters** 5(6), 625–635 ([access](https://academic.oup.com/evlett/article/5/6/625/6697578))
 
 evALLution: making basic evolution concepts accessible to people with visual impairment through a multisensory tree of life  
-TG Laurentino, M Xavier, F Ronco, F Pina-Martins, I Domingues, B Penha, et al.  
-
-**Evolution: Education and Outreach** 14(1), 5  
+TG Laurentino, M Xavier, F Ronco, F Pina-Martins, I Domingues, B Penha, M Dias, A de Sousa, T Carrilho, LR Rodrigues, C Pinheiro, D Rato, D Balata, G Ayala-Botto, M Matos, M Campelo, R Botelho
+**Evolution: Education and Outreach** 14(1), 5 ([access](https://link.springer.com/article/10.1186/s12052-021-00143-1)) 
 
 Comparative scale morphology in the adaptive radiation of cichlid fishes (Perciformes: Cichlidae) from Lake Tanganyika  
 A Viertler, W Salzburger, F Ronco  
-**Biological Journal of the Linnean Society** 134(3), 541–556  
+**Biological Journal of the Linnean Society** 134(3), 541–556 ([access](https://academic.oup.com/biolinnean/article/134/3/541/6347792))
 
 Dynamics of sex chromosome evolution in a rapid radiation of cichlid fishes  
 A El Taher, F Ronco, M Matschiner, W Salzburger, A Böhne  
-**Science Advances** 7(36), eabe8215  
+**Science Advances** 7(36), eabe8215 ([access](https://www.science.org/doi/full/10.1126/sciadv.abe8215)) 
 
 The non-gradual nature of adaptive radiation  
 F Ronco, W Salzburger  
-**Zoology** 146, 125925  
+**Zoology** 146, 125925 ([access](https://www.sciencedirect.com/science/article/pii/S0944200621000337))
 
 Gene expression dynamics during rapid organismal diversification in African cichlid fishes  
 A El Taher, A Böhne, N Boileau, F Ronco, A Indermaur, L Widmer, W Salzburger  
-**Nature Ecology & Evolution** 5(2), 243–250  
+**Nature Ecology & Evolution** 5(2), 243–250 ([access](https://www.nature.com/articles/s41559-020-01354-3))
 
 Drivers and dynamics of a massive adaptive radiation in cichlid fishes  
 F Ronco, M Matschiner, A Böhne, A Boila, HH Büscher, A El Taher, A Indermaur, M Malinsky, V Ricci, A Kahmen, S Jentoft, W Salzburger
-**Nature** 589(7840), 76–81  
+**Nature** 589(7840), 76–81 ([access](https://www.nature.com/articles/s41586-020-2930-4))
 
 ---
 
