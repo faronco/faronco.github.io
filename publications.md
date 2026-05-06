@@ -61,24 +61,15 @@ A Haefeli, FDB Schedel, F Ronco, A Indermaur, W Salzburger
 
 ### 2023
 
-Visual opsin gene expression evolution in the adaptive radiation of cichlid fishes of Lake Tanganyika  
-V Ricci, F Ronco, N Boileau, W Salzburger  
-**Science Advances** 9(36), eadg6568 ([access](https://www.science.org/doi/full/10.1126/sciadv.adg6568))
-
-
 <div style="display: flex; gap: 15px; align-items: flex-start;">
-
   <div>
-    <b>Visual opsin gene expression evolution in the adaptive radiation of cichlid fishes of Lake Tanganyika</b><br>
+    Visual opsin gene expression evolution in the adaptive radiation of cichlid fishes of Lake Tanganyika<br>
     V Ricci, F Ronco, N Boileau, W Salzburger <br>
-    <b>Science Advances</b> 9(36), eadg6568 (<a href="https://www.science.org/doi/full/10.1126/sciadv.adg6568">link access</a>)
-       
+    <b>Science Advances</b> 9(36), eadg6568 (<a href="https://www.science.org/doi/full/10.1126/sciadv.adg6568">access</a>)
   </div>
-
   <img width="150"
        src="https://github.com/user-attachments/assets/ec9b68e3-b6e9-4bac-b917-a804df6e6985"
        style="border-radius: 6px;">
-
 </div>
 
 
