@@ -45,9 +45,14 @@ Surrounded by Great Lakes: Assessing the ichthyological diversity of Northern Za
 FDB Schedel, CET Huyghe, N Boileau, A Indermaur, F Ronco, LM Fritschi, M Phiri, L Makasa, C Katongo, W Salzburger  
 **Journal of Great Lakes Research** 50(3), 102245 ([access](https://www.sciencedirect.com/science/article/pii/S0380133023002381)) 
 
-The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes  
-C Sommer-Trembo, ME Santos, B Clark, M Werner, A Fages, M Matschiner, S Hornung, F Ronco, C Oliver, C Garcia, P Tschopp, M Malinsky, W Salzburger  
-**Science** 384(6694), 470–475 ([access](https://www.science.org/doi/full/10.1126/science.adj9228))
+<div class="pub-entry">
+  <div>
+    The genetics of niche-specific behavioral tendencies in an adaptive radiation of cichlid fishes<br>  
+    C Sommer-Trembo, ME Santos, B Clark, M Werner, A Fages, M Matschiner, S Hornung, F Ronco, C Oliver, C Garcia, P Tschopp, M Malinsky, W Salzburger<br> 
+    <b>Science</b> 384(6694), 470–475 (<a href="https://www.science.org/doi/full/10.1126/science.adj9228">access</a>)
+    </div>
+    <img src="https://github.com/user-attachments/assets/dfb38f2c-3147-4beb-a7fa-069500342130"/>
+  </div>
 
 Host adaptive radiation is associated with rapid virus diversification and cross-species transmission in African cichlid fishes  
 VA Costa, F Ronco, JCO Mifsud, E Harvey, W Salzburger, EC Holmes  
@@ -67,7 +72,7 @@ A Haefeli, FDB Schedel, F Ronco, A Indermaur, W Salzburger
     V Ricci, F Ronco, N Boileau, W Salzburger <br>
     <b>Science Advances</b> 9(36), eadg6568 (<a href="https://www.science.org/doi/full/10.1126/sciadv.adg6568">access</a>)
   </div>
-  <img src="https://github.com/user-attachments/assets/ec9b68e3-b6e9-4bac-b917-a804df6e6985">
+  <img src="https://github.com/user-attachments/assets/ec9b68e3-b6e9-4bac-b917-a804df6e6985"/>
 </div>
 
 
@@ -75,9 +80,14 @@ A Haefeli, FDB Schedel, F Ronco, A Indermaur, W Salzburger
 
 ### 2022
 
-The ectodysplasin-A receptor is a candidate gene for lateral plate number variation in stickleback fish  
-TG Laurentino, N Boileau, F Ronco, D Berner  
-**G3** 12(6), jkac077 ([access](https://academic.oup.com/g3journal/article/12/6/jkac077/6563190)) 
+<div class="pub-entry">
+  <div>
+    The ectodysplasin-A receptor is a candidate gene for lateral plate number variation in stickleback fish<br>  
+    TG Laurentino, N Boileau, F Ronco, D Berner<br>  
+    <b>G3</b> 12(6), jkac077 (<a href="https://academic.oup.com/g3journal/article/12/6/jkac077/6563190">access</a>)
+  </div>
+  <img src="https://github.com/user-attachments/assets/24eb3ab6-2387-4864-be39-827cc0159d8a"/>
+
 
 Molecular evolution and depth-related adaptations of rhodopsin in the adaptive radiation of cichlid fishes in Lake Tanganyika  
 V Ricci, F Ronco, Z Musilova, W Salzburger  
@@ -109,7 +119,7 @@ A El Taher, F Ronco, M Matschiner, W Salzburger, A Böhne
     F Ronco, W Salzburger<br>  
     <b>Zoology</b> 146, 125925 (<a href="https://www.sciencedirect.com/science/article/pii/S0944200621000337">access</a>)
   </div>
-  <img src="https://github.com/user-attachments/assets/42ce3df5-500d-4056-be4e-85c3cfbbed5c">
+  <img src="https://github.com/user-attachments/assets/42ce3df5-500d-4056-be4e-85c3cfbbed5c"/>
 </div>
 
 Gene expression dynamics during rapid organismal diversification in African cichlid fishes  
