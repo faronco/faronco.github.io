@@ -1124,3 +1124,17 @@ pre {
     display: inline-block;
   }
 }
+
+/* publication_list */
+.pub-entry {
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.pub-entry img {
+  width: 100px;
+  border-radius: 9px;
+}
